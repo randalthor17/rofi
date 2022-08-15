@@ -18,7 +18,7 @@ configuration {
 }
 
 * {
-    background:                     #00000060;
+    background:                     #000000ff;
     background-alt:              	#00000000;
     background-bar:                 #f2f2f215;
     foreground:                     #f2f2f2EE;

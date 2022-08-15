@@ -1,6 +1,10 @@
 /** Basic config file **/
 
 configuration {
+  font:               "FuraCode NF Bold 11";
   show-icons:         true;
-  icon-theme:         "Papirus";
+  icon-theme:         "oomox-winter-darker";
+  application-fallback-icon: "application-x-executable";
 }
+
+@import "/home/auhon/.cache/wal/colors-rofi-dark.rasi"
