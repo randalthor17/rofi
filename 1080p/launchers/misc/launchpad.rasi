@@ -10,7 +10,7 @@
 configuration {
 	font:							"Noto Sans Bold 10";
     show-icons:                     true;
-	icon-theme: 					"Papirus";
+	drun-icon-theme: 					"oomox-winter-darker";
     display-drun: 					"";
     drun-display-format:            "{name}";
     disable-history:                false;
